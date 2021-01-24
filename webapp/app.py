@@ -14,7 +14,7 @@ app = Flask(__name__)
 def hello():
     """hello
     """
-    return 'word-cal'
+    return '単語計算機'
 
 
 def main():
