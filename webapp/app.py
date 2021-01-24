@@ -14,7 +14,7 @@ app = Flask(__name__)
 def hello():
     """hello
     """
-    return 'Hello world!'
+    return '単語計算アプリ'
 
 
 def main():
